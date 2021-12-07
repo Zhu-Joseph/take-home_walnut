@@ -1,0 +1,1 @@
+# Frontend portion of the Walnut Authentication App
